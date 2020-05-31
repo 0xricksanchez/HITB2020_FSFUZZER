@@ -2,6 +2,10 @@
 My Material for the HITB 2020 Lockdown edition presentation in April.
 This repo contains the presentation slides as well as all used scripts that were used to demonstrate the demos.
 
+ ### Update May 2020
+ 
+**[FULL FUZZING FRAMEWORK HERE](https://github.com/0xricksanchez/fisy-fuzz)**
+
 ## fs_generator.py
 
 This standalone script can be used to generate different file systems across the different support host systems:
